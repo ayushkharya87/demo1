@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ayushkharya87/reactjs-tour-cards.git/static/css/main.25b0ff24.css",
+    "main.js": "/ayushkharya87/reactjs-tour-cards.git/static/js/main.a19b732b.js",
+    "index.html": "/ayushkharya87/reactjs-tour-cards.git/index.html",
+    "main.25b0ff24.css.map": "/ayushkharya87/reactjs-tour-cards.git/static/css/main.25b0ff24.css.map",
+    "main.a19b732b.js.map": "/ayushkharya87/reactjs-tour-cards.git/static/js/main.a19b732b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25b0ff24.css",
+    "static/js/main.a19b732b.js"
+  ]
+}
